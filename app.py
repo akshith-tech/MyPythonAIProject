@@ -7,7 +7,7 @@ st.write("THIS IS MY FILE")
 # --- OpenRouter Client ---
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key="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",
+    api_key="ENTER_YOUR_OPENAI_KEY",
 )
 
 # --- CUSTOM CSS ---
